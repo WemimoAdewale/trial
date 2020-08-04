@@ -1,0 +1,55 @@
+body{
+    font-family:sans-serif;
+    margin: 50px;
+    
+    
+    
+}
+
+#title-one{
+    font-size: 2em;
+    color: rgb(54,173,171);
+}
+.subtitle-one{
+    color:lawngreen;
+    font-size:1em;
+}
+.para-one{background: teal;
+color:white;}
+
+.sign-up{
+    background:lawngreen;
+    margin-left:500px;
+    padding top:20px;
+    padding-bottom: 20px;
+    margin-right:500px;
+    
+
+}
+.para-two{
+    background:aqua;
+    color:antiquewhite;
+    font-size:1em;
+}
+.text-C{
+     font-size:0.9em;
+    color:rgb(181,181,181);
+}
+#title-three{
+    color:white;
+    font-size:2em;
+}
+#text-A{
+    color:white;
+    
+}
+.text-B{ color:rgb(181,181,181);
+    margin-top: 0;
+}
+.main-para{
+    background:white;
+}
+#title-two{
+    font-size:2em;
+}
+.sign-up:hover{color:green;}
